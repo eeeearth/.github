@@ -7,6 +7,7 @@
 | <a href="https://github.com/eeeearth/seeeeds"><img src="https://github.com/eeeearth/seeeeds/raw/main/icon.png" width="48" alt="seeeeds"></a> | [seeeeds](https://github.com/eeeearth/seeeeds) | Which species live where: habitat, food webs, populations. |
 | <a href="https://github.com/eeeearth/tweeeets"><img src="https://github.com/eeeearth/tweeeets/raw/main/icon.png" width="48" alt="tweeeets"></a> | [tweeeets](https://github.com/eeeearth/tweeeets) | Wind, rain, bird calls and synthesized birdsong. |
 | <a href="https://github.com/eeeearth/streeeam"><img src="https://github.com/eeeearth/streeeam/raw/main/icon.png" width="48" alt="streeeam"></a> | [streeeam](https://github.com/eeeearth/streeeam) | The live broadcast, overlays, commentary and chat answers. |
+| <a href="https://github.com/eeeearth/weeee"><img src="https://github.com/eeeearth/weeee/raw/main/icon.png" width="48" alt="weeee"></a> | [weeee](https://github.com/eeeearth/weeee) | |
 
 We are building an earth model from species, habitat, weather and sound data, with generated plants and animals checked against open science sources. Code and data will be released after the project has progressed and licences are cleared with the right parties.
 
