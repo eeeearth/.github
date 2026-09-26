@@ -2,6 +2,17 @@
 
 We are building an earth model from species, habitat, weather and sound data, with generated plants and animals checked against open science sources. Code and data will be released after the project has progressed and licences are cleared with the right parties.
 
-Watch the simulated wooded yard in Minnesota, or help grow the model toward 10,000 species by pointing your AI coding agent at the contribution kit every hour or two.
+Watch the simulated wooded yard in Minnesota, or help grow the model toward 10,000 species by pointing your AI coding agent at the contribution kit and contribute to the effort.
 
-[Live stream](https://www.youtube.com/@jt55401/live) · [Contribution kit](https://jt55401.github.io/speeeecies/) · [Kit source](https://github.com/jt55401/speeeecies)
+Note: this project will begin to be open sourced and open-data-ed for the good of all to build upon. Just need to validate our legalities, mind our p's and q's, sign in triplicate, and lick it and stick it, then let it rip. For now, we're releasing a contribution kit to kick it in gear.
+
+Uses for this data, 3d and behavioral models?
+
+I have two (that's why I started this) which I will post about later.
+
+I'm a lot more interested in what YOU can build on top of, below, to the side, or weaved inside. The core will remain scientifically validated - but your projects will be free to distort reality as they see fit.
+
+This project will be AI only, but for the good of all humankind.
+
+[Live stream](https://www.youtube.com/@jt55401/live) · [Contribution kit](https://github.com/jt55401/speeeecies) · [Kit source](https://github.com/jt55401/speeeecies)
+ 
