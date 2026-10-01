@@ -11,7 +11,7 @@
 
 We are building an earth model from species, habitat, weather and sound data, with generated plants and animals checked against open science sources. Code and data will be released after the project has progressed and licences are cleared with the right parties.
 
-Watch the simulated wooded yard in Minnesota, or help grow the model toward 10,000 species by pointing your AI coding agent at the contribution kit and contribute to the effort.
+Watch simulated yards from 22 places across the United States, each played out over one compressed day, or help grow the model toward 10,000 species by pointing your AI coding agent at the contribution kit and contribute to the effort.
 
 Note: this project will begin to be open sourced and open-data-ed for the good of all to build upon. Just need to validate our legalities, mind our p's and q's, sign in triplicate, and lick it and stick it, then let it rip. For now, we're releasing a contribution kit to kick it in gear.
 
