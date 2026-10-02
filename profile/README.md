@@ -2,6 +2,8 @@
 
 Explore local scenes with plants, animals, weather and sound on the [live stream](https://www.youtube.com/@jt55401/live). The [Earth systems guide](https://github.com/eeeearth/eeeearth/tree/main/docs/earth-systems) explains the science with process maps. The maps also show which modules take part in the simulation now and which roles are still in development or planned.
 
+![Project map showing current science modules feeding the local scene hub, live outputs, and separate in-development and planned modules](earth-systems-map.svg)
+
 | Project | What it covers | Status |
 | --- | --- | --- |
 | [eeeearth](https://github.com/eeeearth/eeeearth) | Public hub and Earth systems guide | Current |
@@ -13,8 +15,11 @@ Explore local scenes with plants, animals, weather and sound on the [live stream
 | [streeeam](https://github.com/eeeearth/streeeam) | Live broadcast and commentary | Current |
 | [deeeecomp](https://github.com/eeeearth/deeeecomp) | Living soil, water, decay and nutrients | In development |
 | [fungeeee](https://github.com/eeeearth/fungeeee) | Fungi and underground networks | In development |
-| [licheeeens](https://github.com/eeeearth/licheeeens) | Lichens, mosses and biological soil crusts | Planned |
+| [licheeeens](https://github.com/eeeearth/licheeeens) | Lichens and lichen traits | Planned |
+| Bryophytes (module pending) | Mosses and liverworts | Planned |
 | [geeeeo](https://github.com/eeeearth/geeeeo) | Rocks, bedrock and soil parent material | Planned |
+
+Bryophytes have a separate planned module. Biological soil crusts are a shared ecosystem relationship, with soil effects in `deeeecomp`.
 
 “Current” describes modules in the live scene pipeline. “In development” means code exists without an established live-stream role. “Planned” means design work. The simulation covers local scenes and does not model every Earth system.
 
