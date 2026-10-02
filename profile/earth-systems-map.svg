@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">eeeearth project map</title>
+  <desc id="desc">Current plant, animal, weather, ecosystem, species, sound and broadcast modules surround the eeeearth local-scene hub. Soil and fungi are in development. Geology, lichens and a separate bryophyte module are planned. Biocrust is a shared community process.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14263a"/><stop offset="1" stop-color="#202a43"/></linearGradient>
+    <linearGradient id="hub" x2="1" y2="1"><stop stop-color="#1d5260"/><stop offset="1" stop-color="#283665"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M1 1 L9 5 L1 9 Z" fill="#83cfde"/></marker>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif;fill:#f4f8fc}
+      .title{font-size:42px;font-weight:700;letter-spacing:.5px}
+      .sub{font-size:20px;fill:#bfd1e1}
+      .section{font-size:20px;font-weight:700;letter-spacing:1px;fill:#9bc7d7}
+      .name{font-size:25px;font-weight:700}
+      .field{font-size:17px;fill:#ccdeea}
+      .small{font-size:15px;fill:#bed1df}
+      .pill{font-size:14px;font-weight:700;letter-spacing:.5px}
+      .card{fill:#26374f;stroke:#5f98b2;stroke-width:2}
+      .future{fill:#29364b;stroke:#6c7f9c;stroke-width:2;stroke-dasharray:7 6}
+      .line{stroke:#83cfde;stroke-width:3;fill:none;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <text x="60" y="70" class="title">eeeearth <tspan fill="#75dbb0">project map</tspan></text>
+  <text x="60" y="108" class="sub">A live local ecological scene, with clear room for the systems being developed</text>
+  <line x1="60" y1="135" x2="1540" y2="135" stroke="#63b9cd" stroke-width="3"/>
+
+  <text x="60" y="182" class="section">CURRENT PROJECTS</text>
+  <rect x="60" y="202" width="390" height="74" rx="14" class="card"/>
+  <circle cx="91" cy="239" r="12" fill="#80d998"/><text x="116" y="235" class="name">treeeees</text><text x="116" y="259" class="field">Plant biology</text>
+  <rect x="60" y="289" width="390" height="74" rx="14" class="card"/>
+  <circle cx="91" cy="326" r="12" fill="#efbf75"/><text x="116" y="322" class="name">beeees</text><text x="116" y="346" class="field">Animal behavior</text>
+  <rect x="60" y="376" width="390" height="74" rx="14" class="card"/>
+  <circle cx="91" cy="413" r="12" fill="#7ccae4"/><text x="116" y="409" class="name">breeeeze</text><text x="116" y="433" class="field">Atmospheric science</text>
+  <rect x="60" y="463" width="390" height="74" rx="14" class="card"/>
+  <circle cx="91" cy="500" r="12" fill="#b89ce7"/><text x="116" y="496" class="name">seeeeds</text><text x="116" y="520" class="field">Population and community ecology</text>
+  <rect x="60" y="550" width="390" height="74" rx="14" class="card"/>
+  <circle cx="91" cy="587" r="12" fill="#97d4ba"/><text x="116" y="583" class="name">speeeecies</text><text x="116" y="607" class="field">Biodiversity contribution kit</text>
+
+  <path d="M450 239 H515 V317 H550" class="line"/>
+  <path d="M450 326 H530 V359 H550" class="line"/>
+  <path d="M450 413 H530 V403 H550" class="line"/>
+  <path d="M450 500 H515 V445 H550" class="line"/>
+  <path d="M450 587 H500 V488 H550" class="line"/>
+
+  <rect x="550" y="228" width="500" height="335" rx="30" fill="url(#hub)" stroke="#7ed8cc" stroke-width="4"/>
+  <text x="800" y="292" text-anchor="middle" font-size="42" font-weight="700">eeeearth</text>
+  <text x="800" y="329" text-anchor="middle" class="sub">Local ecological scene hub</text>
+  <circle cx="800" cy="435" r="89" fill="#234361" stroke="#81c7dd" stroke-width="3"/>
+  <circle cx="800" cy="435" r="56" fill="#2b6171" stroke="#9bdbae" stroke-width="2"/>
+  <path d="M738 384 L800 435 L860 391 M742 483 L800 435 L860 480 M800 345 V379 M800 491 V523" fill="none" stroke="#89d8ca" stroke-width="3"/>
+  <circle cx="738" cy="384" r="8" fill="#8edba9"/><circle cx="860" cy="391" r="8" fill="#f3be76"/>
+  <circle cx="742" cy="483" r="8" fill="#83cfe8"/><circle cx="860" cy="480" r="8" fill="#bca3ed"/>
+  <text x="800" y="442" text-anchor="middle" font-size="19" font-weight="700">scene</text>
+  <text x="800" y="542" text-anchor="middle" class="small">Linked data and behavior graph: planned</text>
+
+  <text x="1120" y="182" class="section">LIVE OUTPUT</text>
+  <path d="M1050 340 H1110" class="line"/>
+  <path d="M1050 445 H1110" class="line"/>
+  <rect x="1120" y="202" width="420" height="138" rx="16" class="card"/>
+  <circle cx="1152" cy="243" r="12" fill="#d1a6ee"/>
+  <text x="1177" y="249" class="name">tweeeets</text>
+  <text x="1151" y="289" class="field">Bioacoustics and scene sound</text>
+  <text x="1151" y="318" class="small">Bird calls, rain and wind</text>
+  <rect x="1120" y="359" width="420" height="138" rx="16" class="card"/>
+  <circle cx="1152" cy="400" r="12" fill="#88cbe6"/>
+  <text x="1177" y="406" class="name">streeeam</text>
+  <text x="1151" y="446" class="field">Live broadcast and commentary</text>
+  <text x="1151" y="475" class="small">Science communication</text>
+  <rect x="1120" y="515" width="420" height="109" rx="16" fill="#223b51" stroke="#5f98b2" stroke-width="2"/>
+  <text x="1151" y="555" class="name">Earth systems guide</text>
+  <text x="1151" y="586" class="field">Process maps and module status</text>
+
+  <path d="M800 563 V652" stroke="#9eacc5" stroke-width="3" stroke-dasharray="8 7" fill="none"/>
+  <text x="60" y="674" class="section">GROWING THE MODEL</text>
+  <text x="60" y="699" class="small">Dashed cards show work outside the established live scene.</text>
+  <rect x="60" y="720" width="280" height="120" rx="15" class="future"/>
+  <text x="80" y="754" class="name">deeeecomp</text><text x="80" y="783" class="field">Soil science</text><text x="80" y="814" class="small">In development</text>
+  <rect x="360" y="720" width="280" height="120" rx="15" class="future"/>
+  <text x="380" y="754" class="name">fungeeee</text><text x="380" y="783" class="field">Mycology</text><text x="380" y="814" class="small">In development</text>
+  <rect x="660" y="720" width="280" height="120" rx="15" class="future"/>
+  <text x="680" y="754" class="name">geeeeo</text><text x="680" y="783" class="field">Geology</text><text x="680" y="814" class="small">Planned</text>
+  <rect x="960" y="720" width="280" height="120" rx="15" class="future"/>
+  <text x="980" y="754" class="name">licheeeens</text><text x="980" y="783" class="field">Lichenology</text><text x="980" y="814" class="small">Planned</text>
+  <rect x="1260" y="720" width="280" height="120" rx="15" class="future"/>
+  <text x="1280" y="754" class="name">Bryophytes</text><text x="1280" y="783" class="field">Bryology</text><text x="1280" y="814" class="small">Separate module planned</text>
+  <text x="60" y="875" class="small">Biocrust is a shared community relationship in seeeeds, with soil effects in deeeecomp.</text>
+</svg>
