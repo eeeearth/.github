@@ -18,4 +18,4 @@ Explore local scenes with plants, animals, weather and sound on the [live stream
 
 “Current” describes modules in the live scene pipeline. “In development” means code exists without an established live-stream role. “Planned” means design work. The simulation covers local scenes and does not model every Earth system.
 
-[Contribution kit](https://eeeearth.github.io/speeeecies/) · [Kit source](https://github.com/eeeearth/speeeecies)
+[Find your science field](https://github.com/eeeearth/eeeearth/blob/main/docs/science-fields.md) · [Contribution kit](https://eeeearth.github.io/speeeecies/) · [Kit source](https://github.com/eeeearth/speeeecies)
